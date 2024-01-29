@@ -19,6 +19,9 @@ body{
     font-size: 8em;
     color: white;
     text-shadow: 0 0 10px white;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    
 }
 
 .login{
